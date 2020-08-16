@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/editable-webpage/static/css/main.9fec9b49.chunk.css",
+    "main.js": "/editable-webpage/static/js/main.8a5162b2.chunk.js",
+    "main.js.map": "/editable-webpage/static/js/main.8a5162b2.chunk.js.map",
+    "runtime-main.js": "/editable-webpage/static/js/runtime-main.cde49db3.js",
+    "runtime-main.js.map": "/editable-webpage/static/js/runtime-main.cde49db3.js.map",
+    "static/css/2.11829350.chunk.css": "/editable-webpage/static/css/2.11829350.chunk.css",
+    "static/js/2.9052419d.chunk.js": "/editable-webpage/static/js/2.9052419d.chunk.js",
+    "static/js/2.9052419d.chunk.js.map": "/editable-webpage/static/js/2.9052419d.chunk.js.map",
+    "index.html": "/editable-webpage/index.html",
+    "precache-manifest.39ab909a5b5e9d8607318ebdb65e2e71.js": "/editable-webpage/precache-manifest.39ab909a5b5e9d8607318ebdb65e2e71.js",
+    "service-worker.js": "/editable-webpage/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/editable-webpage/static/css/2.11829350.chunk.css.map",
+    "static/css/main.9fec9b49.chunk.css.map": "/editable-webpage/static/css/main.9fec9b49.chunk.css.map",
+    "static/js/2.9052419d.chunk.js.LICENSE.txt": "/editable-webpage/static/js/2.9052419d.chunk.js.LICENSE.txt",
+    "static/media/heroSec.jpg": "/editable-webpage/static/media/heroSec.2cb28e1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cde49db3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.9052419d.chunk.js",
+    "static/css/main.9fec9b49.chunk.css",
+    "static/js/main.8a5162b2.chunk.js"
+  ]
+}
