@@ -34,7 +34,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <ContentContext.Provider value={{ content, setContent }}>
         <Switch>
           {/*Hero Section */}
